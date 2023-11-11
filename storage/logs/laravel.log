@@ -1,0 +1,4 @@
+[2023-11-11 19:17:31] local.INFO: api expire time: Sat Nov 11 19:32:31 UTC 2023 -- expires carbon timestamp: 2023-11-11 19:32:31  
+[2023-11-11 19:24:10] local.INFO: API Authentication failed {"response":{"code":401,"message":"UnauthorizedException accessing service: [Unable to create new Token. Invalid key or secret supplied]"}} 
+[2023-11-11 19:24:11] local.INFO: Stock fetch API request failed  
+[2023-11-11 19:27:07] local.INFO: api expire time: Sat Nov 11 19:42:06 UTC 2023 -- expires carbon timestamp: 2023-11-11 19:42:06  
